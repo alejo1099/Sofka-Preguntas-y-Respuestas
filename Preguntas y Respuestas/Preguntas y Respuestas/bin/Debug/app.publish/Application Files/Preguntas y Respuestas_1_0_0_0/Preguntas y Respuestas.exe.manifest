@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Preguntas y Respuestas.exe" version="1.0.0.0" publicKeyToken="3463c133967a88ac" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Preguntas y Respuestas" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Preguntas y Respuestas.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Preguntas y Respuestas.exe" size="26096">
+      <assemblyIdentity name="Preguntas y Respuestas" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>O60uC8AhxIW/FFUxCMCF1TvXkqZN/1NqkFVMr/CynHI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Preguntas y Respuestas.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-P2809AH\Usuario" issuerKeyHash="9c60fc1096f34ebd39dafb48942ec3f5eeb797f8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qgZ6pdqqfg+SXVmQdj7UAmVhA6mS/OEMdC8HnxU89h0=</DigestValue></Reference></SignedInfo><SignatureValue>bu1gyzig1nFpnTejwxBBuBFhwZc17wRTzqby8OMRMM+fsuZSf1LI+tyOgInXVrdKNnT3/eyEcQBNMAhJnnBsUKzpu3EaSdxmILzdOIiQKXFVdYWF6wd/v0CLDCgLeWGxVZ/86q0+tRN6wxwXRF90u0axca4lWwy616mg8LZMRjc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4w3ErqHK33UZUeF+KHcAgfPQ95W3mci3q/Kk0TLMUb6TYpc9bxyW6AsfhPSw9D2DvNzI2RDVhtFZETyswABtYdJrtiEyUX7wLeevdIHNvSzXhcX4e8D+k9S8mGMXchc+n8P9B3Awi6JowbYsKrnHhQV/kDlpfA2UeV1CbOwKtJU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1df63c159f072f740ce1fc92a903616502d43e7690595d920f7eaadaa57a06aa" Description="" Url=""><as:assemblyIdentity name="Preguntas y Respuestas.exe" version="1.0.0.0" publicKeyToken="3463c133967a88ac" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-P2809AH\Usuario</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>n9TiC1fBsDRcD5U8n7f2anoSXxaNLgm4tNksJm+HuZM=</DigestValue></Reference></SignedInfo><SignatureValue>jaEQLoJEfzgLYk1zZ1L26D4I8K2p/OQ63GcfVp+jetT+JD2tLUu3CYjJAuJg4EYEYh9r5pymVpxPoEX3HOtc7enUXZFfUH4p5ZcZE9nl/SmVpu4OUGiZkxfaB9jB3FM0Rgdv/M6sc+7k7czx5kQ+4Honbo59ofFdyvgAcUq636E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4w3ErqHK33UZUeF+KHcAgfPQ95W3mci3q/Kk0TLMUb6TYpc9bxyW6AsfhPSw9D2DvNzI2RDVhtFZETyswABtYdJrtiEyUX7wLeevdIHNvSzXhcX4e8D+k9S8mGMXchc+n8P9B3Awi6JowbYsKrnHhQV/kDlpfA2UeV1CbOwKtJU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQYXsULKRTkYFFgRanh0hrzDANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ARABFAFMASwBUAE8AUAAtAFAAMgA4ADAAOQBBAEgAXABVAHMAdQBhAHIAaQBvMB4XDTIyMDUxNTAwMDczN1oXDTIzMDUxNTA2MDczN1owOTE3MDUGA1UEAx4uAEQARQBTAEsAVABPAFAALQBQADIAOAAwADkAQQBIAFwAVQBzAHUAYQByAGkAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA4w3ErqHK33UZUeF+KHcAgfPQ95W3mci3q/Kk0TLMUb6TYpc9bxyW6AsfhPSw9D2DvNzI2RDVhtFZETyswABtYdJrtiEyUX7wLeevdIHNvSzXhcX4e8D+k9S8mGMXchc+n8P9B3Awi6JowbYsKrnHhQV/kDlpfA2UeV1CbOwKtJUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAmtEZ/snUoNpzgckfn+IfsQ9ko8sUApGs6VFF3zgAIZM4l/idd/liISDyNPfTBMrqVjtrkkq7sC2YubiX/BTEfjgu428cPdqTUX96H62oL8NfL3j//ShFsFxPRacBPUHzCkEwO/loJK4Eqxj28e0g8S7U7/xFBTK679KRt2QYq2w==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

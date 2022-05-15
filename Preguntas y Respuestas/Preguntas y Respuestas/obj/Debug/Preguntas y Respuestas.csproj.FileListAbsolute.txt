@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\bin\Debug\Preguntas y Respuestas.exe.config
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\bin\Debug\Preguntas y Respuestas.exe
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\bin\Debug\Preguntas y Respuestas.pdb
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.exe
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.pdb
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\bin\Debug\Preguntas y Respuestas.exe.manifest
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\bin\Debug\Preguntas y Respuestas.application
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.exe.manifest
+C:\Users\Usuario\Documents\GitHub\Sofka-Preguntas-y-Respuestas\Preguntas y Respuestas\Preguntas y Respuestas\obj\Debug\Preguntas y Respuestas.application
